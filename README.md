@@ -35,7 +35,7 @@
 </div>
 
 
-## 📫 How to Reach Me
+## How to Reach Me
 - 💼 Professional Inquiries: [yusufadiwork@gmail.com](mailto:yusufadiwork@gmail.com)
 
 <div align="center">
