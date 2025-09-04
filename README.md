@@ -12,7 +12,7 @@
 - Heading IT Project Lead Service
 
 
-## 👩🏻‍💻 Skill-Set
+## Skill-Set
 
 <div align="left">
 
