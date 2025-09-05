@@ -9,7 +9,7 @@
 
 ## Current Focus
 - Pursuing Computer Science and Informatics at Politeknik Negeri Ujung Pandang
-- Heading IT Project Lead Service
+- Currently Learning on My Mistake
 
 
 ## Skill-Set
@@ -39,7 +39,7 @@
 - 💼 Professional Inquiries: [yusufadiwork@gmail.com](mailto:yusufadiwork@gmail.com)
 
 <div align="center">
-  <i>"Step Outside and See Trees!"</i>
+  <i>"Code Today, Change Tomorrow!"</i>
 </div>
 
 
